@@ -11,7 +11,8 @@ The easiest way to deploy this Bot is via Heroku.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/VcVideoPlayer"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-
+<a href="https://t.me/sillybots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-green.svg?logo=Telegram"></a>
+<a href="t.me/botdevlopers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-orange.svg?logo=telegram"></a>
 
 # Our Credit 🔥
 
