@@ -30,6 +30,6 @@ The easiest way to deploy this Bot is via Heroku.
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
-<a href="https://t.me/MrTanaji"><img src="https://img.shields.io/badge/MrTanajj[🇮🇳]-1b77FF.svg?logo=Telegram"></a>
+<a href="https://t.me/MrTanaji"><img src="https://img.shields.io/badge/MrTanajj-1b77FF.svg?logo=Telegram"></a>
 <a href="https://t.me/sillybots"><img src="https://img.shields.io/badge/Join-Telegram%30Channel-yellow.svg?logo=Telegram"></a>
 <a href="t.me/botdevlopers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-orange.svg?logo=telegram"></a>
